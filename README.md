@@ -1,7 +1,7 @@
 
 ## Welcome on board 👩‍🔬
 ------
-<center>This text is centered.</center>
+<font color="red">This text is red!</font>
 ----
 
 **Physicist** by training who moved into the world of **Data Science**.
@@ -20,6 +20,16 @@
 
 🗺️ I can do without traveling and discovering new places and cultures.
 
+
+> :warning: **Warning:** Do not push the big red button.
+
+> :memo: **Note:** Sunrises are beautiful.
+
+> :bulb: **Tip:** Remember to appreciate the little things in life.
+> 🚵
+> 👩‍🔬
+> 🌍
+> 📚 I love reading
 <p>
 🕸 https://odartsi.github.io/olympiadartsi.github.io/ 
 
