@@ -1,6 +1,6 @@
-<center> 
+
 ## Welcome on board 👩‍🔬
-</center>
+
 
 I am physicsist and data scientist 
 <p>
