@@ -1,8 +1,14 @@
 
 ## Welcome on board 👩‍🔬
+------
 
 
-I am physicsist and data scientist 
+**Physicist** by training who moved into the world of **Data Science**.
+
+> - I like visualisations and to explain compicated topics in simple terms.
+> - I love combine art and science.
+> - Cyclist and montain runner on my free time.
+
 <p>
 🕸 https://odartsi.github.io/olympiadartsi.github.io/ 
 
