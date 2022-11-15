@@ -1,7 +1,8 @@
 
 ## Welcome on board 👩‍🔬
 ------
-
+<center>This text is centered.</center>
+----
 
 **Physicist** by training who moved into the world of **Data Science**.
 
