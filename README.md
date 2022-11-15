@@ -5,9 +5,13 @@
 
 **Physicist** by training who moved into the world of **Data Science**.
 
-> - I like visualisations and to explain compicated topics in simple terms.
-> - I love combine art and science.
-> - Cyclist and montain runner on my free time.
+> 🔬 Science is on my DNA.
+> 🎨 art is on my name.
+> 📊 I like visualisations and to explain compicated topics in simple terms.
+> 🎨 I love combine art and science.
+> 🚵 🏃‍♀️ Cyclist and montain runner is my fuel.
+> 📖 I love learning and discovering new things.
+> 🗺️ I can do without traveling and discovering new places and cultures.
 
 <p>
 🕸 https://odartsi.github.io/olympiadartsi.github.io/ 
