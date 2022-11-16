@@ -6,13 +6,13 @@
 
 🔬 Science is on my DNA.
 
-🎨 art is on my name.
+🎨 ART is on my name.
+
+🚵 🏃‍♀️ Cycling and montain running is my fuel.
 
 📊 I like visualisations and to explain compicated topics in simple terms.
 
 🎨 I love combine art and science.
-
-🚵 🏃‍♀️ Cyclist and montain runner is my fuel.
 
 📖 I love learning and discovering new things.
 
