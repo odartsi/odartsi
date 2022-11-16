@@ -1,7 +1,7 @@
 
 ## Welcome on board 👩‍🔬
 --------
-======
+--------
 **Physicist** by training who moved into the world of **Data Science**.
 
 🔬 Science is on my DNA.
