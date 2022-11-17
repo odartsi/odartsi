@@ -28,7 +28,7 @@
 > 🌍
 > 📚 I love reading
 <p> -->
-🕸 <a href="[#introduction](https://odartsi.github.io/olympia_dartsi/)">Website</a> 
+🕸 <a href="https://odartsi.github.io/olympia_dartsi/"> Website</a> 
 
 <!--  
 </p>
