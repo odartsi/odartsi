@@ -1,22 +1,21 @@
 
 ## Welcome on board 👩‍🔬
 --------
---------
-**Physicist** by training who moved into the world of **Data Science**.
+**Physicist** who moved into the world of **Data Science**.
 
 🔬 Science is on my DNA.
 
 🎨 ART is on my name.
 
-🚵 🏃‍♀️ Cycling and montain running is my fuel.
+🚴‍♀️ 🏃‍♀️ Cycling and montain running is my fuel.
 
 📊 I like visualisations and to explain compicated topics in simple terms.
 
-🎨 I love combine art and science.
+🖌 I love combine art and science.
 
-📖 I love learning and discovering new things.
+📚 I love learning and discovering new things.
 
-🗺️ I can do without traveling and discovering new places and cultures.
+<!-- 🗺️ I can do without traveling and discovering new places and cultures.-->
 
 <!--
 > :warning: **Warning:** Do not push the big red button.
