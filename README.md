@@ -30,14 +30,6 @@
 <p> -->
 🕸 <a href="https://odartsi.github.io/olympia_dartsi/"> Website</a> 
 
-- uses: Platane/snk@v2
-  with:
-    github_user_name: ${{ github.odartsi}}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6
-
 <!--  
 </p>
 #### Table of Contents
