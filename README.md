@@ -30,6 +30,9 @@
 <p> -->
 🕸 <a href="https://odartsi.github.io/olympia_dartsi/"> Website</a> 
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
+
 <!--  
 </p>
 #### Table of Contents
