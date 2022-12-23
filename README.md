@@ -30,10 +30,10 @@
 <p> -->
 🕸 <a href="https://odartsi.github.io/olympia_dartsi/"> Website</a> 
 
-
-
-![snake gif](https://github.com/odartsi/odartsi/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/odartsi/odartsi/blob/output/github-contribution-grid-snake.gif)
+
 
 <!--  
 </p>
