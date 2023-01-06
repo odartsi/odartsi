@@ -28,7 +28,7 @@
 > 🌍
 > 📚 I love reading
 <p> -->
-🕸 <a href="https://odartsi.github.io/olympia_dartsi/"> Website</a> 
+🕸 <a href="https://odartsi.github.io/"> Website</a> 
 
 
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
