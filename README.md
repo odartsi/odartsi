@@ -31,7 +31,6 @@
 🕸 <a href="https://odartsi.github.io/"> Website</a> 
 
 ![snake gif](https://github.com/odartsi/odartsi/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/odartsi/odartsi/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 <!--  
