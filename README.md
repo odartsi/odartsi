@@ -28,27 +28,21 @@
 > 🌍
 > 📚 I love reading
 <p> -->
-🕸 <a href="https://odartsi.github.io/"> Website</a> 
+[![Website Badge](https://img.shields.io/badge/Visit%20My%20Website-teal)](https://odartsi.github.io/)
+
+<!--[![Website Badge](https://img.shields.io/badge/Website-Visit%20Now-blue?logo=internet-explorer)](https://odartsi.github.io/)
+[![Custom Website Badge](https://img.shields.io/badge/Odartsi's%20Website-Click%20Here-brightgreen)](https://odartsi.github.io/)-->
+
+## Languages:
+
+[![Python](https://img.shields.io/badge/python-blue.svg?)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-red.svg?)](https://www.cplusplus.com/)
+[![Html](https://img.shields.io/badge/html-green.svg?)](https://en.wikipedia.org/wiki/HTML)
+[![Pandas](https://img.shields.io/badge/pandas-yellow.svg)](https://pandas.pydata.org/)
+[![Numpy](https://img.shields.io/badge/numpy-teal.svg)](https://numpy.org/)
+[![SQL](https://img.shields.io/badge/SQL-purple.svg?)]()
+[![MongoDB](https://img.shields.io/badge/NoSQL-darkgreen.svg?)](https://www.mongodb.com/)
 
 ![snake gif](https://github.com/odartsi/odartsi/blob/output/github-contribution-grid-snake.svg)
 
-
-<!--  
-</p>
-#### Table of Contents
-
-- [Underline](#underline)
-- [Indent](#indent)
-- [Center](#center)
-- [Color](#color)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title |
-| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
-
-<img src="[image.png](https://user-images.githubusercontent.com/58295268/180822737-d1b32dfd-56ed-45d4-acaf-010644f2773e.png)" width="200" height="100">
-
-<!-- ![image](https://user-images.githubusercontent.com/58295268/180822737-d1b32dfd-56ed-45d4-acaf-010644f2773e.png) -->
-[![Static Badge](https://img.shields.io/badge/python-blue?logo=github)](https://odartsi.github.io/)
 
