@@ -32,6 +32,7 @@
 
 <!--[![Website Badge](https://img.shields.io/badge/Website-Visit%20Now-blue?logo=internet-explorer)](https://odartsi.github.io/)
 [![Custom Website Badge](https://img.shields.io/badge/Odartsi's%20Website-Click%20Here-brightgreen)](https://odartsi.github.io/)-->
+![snake gif](https://github.com/odartsi/odartsi/blob/output/github-contribution-grid-snake.svg)
 
 ## Languages:
 
@@ -43,6 +44,5 @@
 [![SQL](https://img.shields.io/badge/SQL-purple.svg?)]()
 [![MongoDB](https://img.shields.io/badge/NoSQL-darkgreen.svg?)](https://www.mongodb.com/)
 
-![snake gif](https://github.com/odartsi/odartsi/blob/output/github-contribution-grid-snake.svg)
 
 
