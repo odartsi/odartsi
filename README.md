@@ -30,9 +30,8 @@
 <p> -->
 [![Website Badge](https://img.shields.io/badge/Visit%20My%20Website-teal)](https://odartsi.github.io/)
 
-<!--[![Website Badge](https://img.shields.io/badge/Website-Visit%20Now-blue?logo=internet-explorer)](https://odartsi.github.io/)
-[![Custom Website Badge](https://img.shields.io/badge/Odartsi's%20Website-Click%20Here-brightgreen)](https://odartsi.github.io/)-->
-![snake gif](https://github.com/odartsi/odartsi/blob/output/github-contribution-grid-snake.svg)
+<!--
+![snake gif](https://github.com/odartsi/odartsi/blob/output/github-contribution-grid-snake.svg)-->
 
 ## Languages:
 
