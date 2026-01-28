@@ -1,47 +1,38 @@
+## Hi, I’m Olympia 👋👩‍🔬
 
-## Welcome on board 👩‍🔬
---------
-**Physicist** who moved into the world of **Data Science**.
+I’m a **physicist turned data scientist**, working at the intersection of  
+**science, data, and interpretation**.
 
-🔬 Science is on my DNA.
+I enjoy building tools that turn **complex scientific data into clear insights** —  
+often through **visualization, automation, and thoughtful analysis**.
 
-🎨 ART is on my name.
+---
 
-🚴‍♀️ 🏃‍♀️ Cycling and montain running is my fuel.
+### 🔬 What I care about
+- Scientific rigor with practical impact  
+- Making complicated ideas understandable  
+- Interpretable models & transparent workflows  
+- Combining **art, science, and data storytelling**
 
-📊 I like visualisations and to explain compicated topics in simple terms.
+---
 
-🖌 I love combine art and science.
+### 🎨 Beyond code
+- Visualizations as a communication tool  
+- Creative intersections between art & science  
+- Cycling 🚴‍♀️ and mountain running 🏃‍♀️ fuel my thinking
 
-📚 I love learning and discovering new things.
+---
 
-<!-- 🗺️ I can do without traveling and discovering new places and cultures.-->
+### 🧰 Tools & languages
+![Python](https://img.shields.io/badge/Python-blue)
+![C++](https://img.shields.io/badge/C%2B%2B-red)
+![Pandas](https://img.shields.io/badge/Pandas-yellow)
+![NumPy](https://img.shields.io/badge/NumPy-teal)
+![SQL](https://img.shields.io/badge/SQL-purple)
+![MongoDB](https://img.shields.io/badge/NoSQL-darkgreen)
+![HTML](https://img.shields.io/badge/HTML-green)
 
-<!--
-> :warning: **Warning:** Do not push the big red button.
+---
 
-> :memo: **Note:** Sunrises are beautiful.
-
-> :bulb: **Tip:** Remember to appreciate the little things in life.
-> 🚵
-> 👩‍🔬
-> 🌍
-> 📚 I love reading
-<p> -->
+### 🌍 Find me here
 [![Website Badge](https://img.shields.io/badge/Visit%20My%20Website-teal)](https://odartsi.github.io/)
-
-<!--
-![snake gif](https://github.com/odartsi/odartsi/blob/output/github-contribution-grid-snake.svg)-->
-
-## Languages:
-
-[![Python](https://img.shields.io/badge/python-blue.svg?)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-red.svg?)](https://www.cplusplus.com/)
-[![Html](https://img.shields.io/badge/html-green.svg?)](https://en.wikipedia.org/wiki/HTML)
-[![Pandas](https://img.shields.io/badge/pandas-yellow.svg)](https://pandas.pydata.org/)
-[![Numpy](https://img.shields.io/badge/numpy-teal.svg)](https://numpy.org/)
-[![SQL](https://img.shields.io/badge/SQL-purple.svg?)]()
-[![MongoDB](https://img.shields.io/badge/NoSQL-darkgreen.svg?)](https://www.mongodb.com/)
-
-
-
